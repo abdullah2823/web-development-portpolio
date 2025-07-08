@@ -125,3 +125,26 @@ nav li a{
     margin-top: 4px;
     line-height: 1px;
 }
+.main-section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+
+}
+.text-center{
+    text-align: center;
+    
+}
+.skills-continer{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 33px;
+    box-shadow: 0 6px 60px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
