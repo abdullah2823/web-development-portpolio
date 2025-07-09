@@ -148,3 +148,47 @@ main section{
     margin-top: 130px;
     margin-bottom: 130px;
 }
+/* Resume */
+.resume-continar{
+    /* text-align: center; */
+        display: flex;
+        gap:24px;
+}
+.resume{
+}
+.experience-sub-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.experience-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.experience-description{
+    color: #757575;
+    margin-bottom: 30px;
+    margin-right: 47px;
+
+}
+.resume-colum-title{
+    font-size: 30px;
+    font-weight: bold;
+    color:#474747;
+
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
+.section-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    margin-bottom: 100px;
+}
